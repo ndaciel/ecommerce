@@ -1,5 +1,4 @@
-<<<<<<< HEADggg
-g
+<<<<<<< HEAD
 const button{
     namaButton = "Buy",
     warnaButton = "Biru",

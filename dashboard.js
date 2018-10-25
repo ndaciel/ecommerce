@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+<<<<<<< HEADggg
+g
 const button{
     namaButton = "Buy",
     warnaButton = "Biru",
